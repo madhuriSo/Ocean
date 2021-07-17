@@ -1,0 +1,19 @@
+{
+  "name": "ocean",
+  "version": "14.16.1",
+  "description": "Simple web app",
+  "main": "FileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhuriSo/Ocean.git"
+  },
+  "author": "Madhuri Padule",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhuriSo/Ocean/issues"
+  },
+  "homepage": "https://github.com/madhuriSo/Ocean#readme"
+}
